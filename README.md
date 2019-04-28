@@ -13,6 +13,7 @@
 
 # USING NANO
 
-open a file in nano = nano filename.txt
-to save = ctrl + o (then press entre)
- to exit = ctrl + X
+open a file in nano = nano filename.txt  
+to save = ctrl + o (then press entre)  
+ to exit = ctrl + X  
+
